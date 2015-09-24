@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/main_delivery_ok" android:title="@string/Delivery_OK" android:orderInCategory="100"/>
+    <item android:id="@+id/main_delivery_ok_no_docs" android:title="@string/Delivery_OK_No_Doc" android:orderInCategory="200"/>
+    <item android:id="@+id/main_delivery_not_ok" android:title="@string/Delivery_NOK" android:orderInCategory="300"/>
+</menu>

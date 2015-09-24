@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Documente Transport</string>
+    <string name="About">Despre</string>
+    <string name="Key">Cheie</string>
+    <string name="Load_History">Istoric Livrari</string>
+    <string name="Settings">Setari</string>
+    <string name="Value">Valoare</string>
+    <string name="action_settings">Setari</string>
+    <string name="title_activity_about">Despre</string>
+    <string name="title_activity_load_detail">Detaliu Incarcatura</string>
+    <string name="title_activity_load_history">Istoric Livrari</string>
+    <string name="title_activity_settings">Setari</string>
+    <string name="add_new_setting">Setare Noua</string>
+    <string name="Finalized">Livrate</string>
+</resources>

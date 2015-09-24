@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.pilot.dan.transportationdocuments.SettingsActivity">
+    <item android:id="@+id/add_new" android:title="@string/add_new_setting"
+        android:orderInCategory="200" app:showAsAction="never"/>
+    <item android:id="@+id/about" android:title="@string/About"
+        android:orderInCategory="200" app:showAsAction="never"/>
+</menu>
