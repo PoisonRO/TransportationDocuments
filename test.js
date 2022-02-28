@@ -1,3 +1,1 @@
-function onload() {
-  alert(1)
-}
+alert(1);
